@@ -1,8 +1,6 @@
 # RudeWindow
 A simple dummy malware program for practice.
 
-Programmed by Noam.
-
 ## Building
 **Requirements:**
 - IExpress.EXE (Comes with Windows)
